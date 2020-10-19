@@ -1,4 +1,4 @@
-# wallet-ui
+# lookiso
 
 ## Project setup
 ```
