@@ -4,19 +4,19 @@
       <h1 style="padding: 20px">Linux ISO Image Downloads</h1>
     </div>    
     <div class="background">
-      <HelloWorld/>
+      <ISOLIST/>
     </div>
     <!-- <img class="banner" alt="iso logo" src="./assets/static/img/logo.png"> -->
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ISOLIST from './components/IsoList.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    ISOLIST
   }
 }
 </script>
